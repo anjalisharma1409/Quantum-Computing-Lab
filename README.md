@@ -75,9 +75,7 @@ This command:
 - Installs dependencies exactly as specified in `uv.lock`
 - Uses the fastest available wheels and build cache
 
-If you only want to install without syncing dev dependencies:
-```bash
-uv sync --no-dev
+
 ```
 
 ---
